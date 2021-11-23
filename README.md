@@ -1,1 +1,1 @@
-# breast-imaging-frame-extraction
+# Breast imaging frame extraction
